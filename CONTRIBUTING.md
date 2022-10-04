@@ -65,3 +65,4 @@ Once you have configured a remote that references the upstream and original repo
 - Make sure your PR's description contains GitHub's special keyword references that automatically close the related issue when the PR is merged. (Check [this](https://github.com/blog/1506-closing-issues-via-pull-requests) for more info)
 - If you're making very, very small changes to your PR (such as making some minor style corrections or minor changes requested by reviewers), make sure you [squeeze](https://davidwalsh.name/squash-commits-git) your commits afterwards, so you don't have an absurd number of commits for a very small fix.
 - If you are submitting a PR for a UI-related topic, it would be really awesome if you could add a screenshot of your change or a link to a deployment where it can be tested along with your PR. This makes it very easy for reviewers and you will also get reviews faster.
+
