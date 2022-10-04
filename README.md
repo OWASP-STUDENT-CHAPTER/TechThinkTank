@@ -26,7 +26,7 @@ A contributor need to go to Writing dir and create a new file in the section the
 
     Supporting Links
 ```
-Example
+<!-- Example -->
 
 ## Design 🖌️
 A contributor can contribute in the Design section by contributing Ui/Ux of any component, element or application.
@@ -34,7 +34,7 @@ A contributor can contribute in the Design section by contributing Ui/Ux of any 
 ### Structure
 A contributor needs to go to Design dir and create a dir and add a .pdf format file along with supporting link of Figma/Xd file.
 
-Example
+<!-- Example -->
 
 ## Advocacy 📽️
 A contributor can contribute in this section by adding a Talk, Video or Podcast.
@@ -42,7 +42,7 @@ A contributor can contribute in this section by adding a Talk, Video or Podcast.
 ### Format
 Contributor needs to go to Advocacy dir and then to the section they want to contribute and add the video of the same.
 
-Example
+<!-- Example -->
 
 ## Contributing Guidelines
 Please follow the [contributing guidelines](./CONTRIBUTING.md) to contribute to the project.
