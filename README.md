@@ -10,6 +10,38 @@ Contributing to open source isn’t just for technical folks who want to write c
 
 Low code contributions are fantastic choices for folks who don't have a lot of technical knowledge. Here are some examples of ways you can contribute to open-source projects:
 
+### Writing
+A contributor can contribute in the writing section by contributing a Technical content,blog or case study on any technical topic or domain.
+
+#### Structure
+A contributor need to go to Writing dir and create a new file in the section they want to contribute, the content should be in the form of Markdown and should strictly follow the format structure, along with supporting links.
+
+#### Format
+```
+    Title/Heading of the Content/Blog
+    
+    <-- Supporting Image -->
+
+    Body(Containing Sub-heading and bullet points to make the content attractive.)
+
+    Supporting Links
+```
+Example
+
+### Design
+A contributor can contribute in the Design section by contributing Ui/Ux of any component, element or application.
+
+#### Structure
+A contributor needs to go to Design dir and create a dir and add a .pdf format file along with supporting link of Figma/Xd file.
+
+Example
+
+### Advocacy
+A contributor can contribute in this section by adding a Talk, Video or Podcast.
+
+#### Format
+Contributor needs to go to Advocacy dir and then to the section they want to contribute and add the video of the same.
+
 <!-- ## Explore the topics
 - [Frontend Web Development](./Frontend-Web-Development)
 - [Backend Web Development](./Backend-Web-Development)
