@@ -10,7 +10,7 @@ The end.
 
 Well it sounds pretty simple, Right ? Well It Is And It Isn’t :P. So To Get Into The Detail: 
 
-![Untitled](#TechForRookies%20What%20is%20an%20IDE%205ba8fbce3389422ebe5ca8cb958afdec/Untitled.png)
+![image](https://user-images.githubusercontent.com/72315012/194722750-b76582d6-21f2-4f25-adf0-005833efe91f.png)
 
 With a little more detail, **IDE** stands for **Integrated Development Environment.** Literally, a bit of software which is Integrated into your computer, used for code Development, and it’s a virtual Environment in which to do that.
 
@@ -18,7 +18,7 @@ There are a range of IDE’s out there — just like there being a difference be
 
 Many developers will have a preferred set of IDE’s or even a preferred single IDE, depending on the languages they work with. For example, **IntelliJ** is great for Java, VS Code is very versatile for front-end, PyCharm was developed with Python coding in mind. They usually have some nifty add-ons and integrations to flag errors, integrate with Git (more on that later) and customise the display (most hardcore devs use dark mode, to avoid eye strain).
 
-![Untitled](#TechForRookies%20What%20is%20an%20IDE%205ba8fbce3389422ebe5ca8cb958afdec/Untitled%201.png)
+![image](https://user-images.githubusercontent.com/72315012/194722764-0048865e-88e9-4c92-a25b-32ab80288afa.png)
 
 A side note: Google CloudShell and CodePen are not technically IDE’s as they are in-browser, but they are great if you aren’t able to download any software to your computer!
 
@@ -26,7 +26,8 @@ So, when you hear the term IDE being thrown around, think of it as a text editor
 
 Also, Since JavaScript Is A Pretty Popular Language Among The Developer Community, Some Of The Most Popular JavaScript IDE’s Are As Follows :
 
-![Untitled](#TechForRookies%20What%20is%20an%20IDE%205ba8fbce3389422ebe5ca8cb958afdec/Untitled%202.png)
+![image](https://user-images.githubusercontent.com/72315012/194722772-6f7d1b88-2233-4aa1-bff0-341a66e2ac7f.png)
+
 
 (Source: [Temok.com](http://Temok.com) for The Above Image)
 
