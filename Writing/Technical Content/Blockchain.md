@@ -1,4 +1,6 @@
-# BLOCKCHAIN
+# BLOCKCHAIN 
+
+![image](https://user-images.githubusercontent.com/76043412/195390678-3d38fe9c-585f-4710-a0cb-eeffe3367568.png)
 
 ## Introduction
 We all know about the under-the-table corruption and malpractice done by the authorities which end up in a huge amount of black money transactions. Which should be obviously stored in some kind of database, but we can blindly trust that data since we don’t have any access to it or the administration can easily manipulate data. So there will be existing a question regarding the reliability of this centralized system. Right?
