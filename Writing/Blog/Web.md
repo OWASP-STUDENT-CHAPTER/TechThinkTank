@@ -1,5 +1,5 @@
-<center><img src='./assets/web123.png' width=100%></center>
-<h1>WEB3.0<
+<img src='./assets/web123.png' width=100%>
+<h1>WEB3.0</h1>
 
 Web 3 or Web 3.0, is based on the concept of creating a totally decentralized ecosystem. This new technological dimension believes in 
 leveraging the power of A.I., machine learning, and the latest technologies like blockchain to solve the problems of the present-day 
@@ -18,6 +18,9 @@ internet/online ecosystem. Some key features of web3.0 are as following:
  </ul>
   
 <h3>WEB2.0</h3>
+
+  <div>Web 2.0 are websites and applications that make use of user-generated content for end-users. Web 2.0 is characterized by greater user interactivity and collaboration, more pervasive network connectivity and enhanced communication channels. The term was coined by Darcy DiNucci in 1999 and later popularized by Tim O'Reilly and Dale Dougherty at the first Web 2.0 Conference in late 2004.</div>
+
 <ul>
   <li>Improved user interaction over Web 1.0</li>
   <li>Web applications introduced</li>
@@ -28,7 +31,11 @@ internet/online ecosystem. Some key features of web3.0 are as following:
   <li>Centralized data</li>
   <li>Read and Write Web</li>
   </ul>
-WEB1.0
+
+<h3>WEB1.0</h3>
+
+<div>Web 1.0 is the term used for the earliest version of the Internet as it emerged from its origins with Defense Advanced Research Projects Agency (DARPA) and became, for the first time, a global network representing the future of digital communications.</div>
+
 <ul>
 <li>No user-to-server communication</li>
 <li>Static websites</li>
@@ -36,3 +43,4 @@ WEB1.0
 <li>Hyper-linking and bookmarking pages</li>
 <li>Read-only Web</li>
   </ul>
+  
