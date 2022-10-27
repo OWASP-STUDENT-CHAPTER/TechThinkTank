@@ -39,7 +39,7 @@ Some famous frameworks of JS
 and many more...
 
 ### CSS Frameworks
-CSS frameworks are used to make the work of developer much easier by providing layout of various components. Some of the famous CSS frameworks are
+CSS frameworks are used to make the work of developer much easier by providing layout of various components. Some of the famous CSS frameworks are:
 - Bootstrap
 - Bulma
 - Materialize
