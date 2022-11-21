@@ -42,6 +42,10 @@ A contributor can contribute in this section by adding a Talk, Video or Podcast.
 ### Format
 Contributor needs to go to Advocacy dir and then to the section they want to contribute and add the google drive link of the video.
 
+### Maintainers
+-[Aman Kumar](https://github.com/amankumar11)
+
+
 <!-- Example -->
 
 ## Contributing Guidelines
