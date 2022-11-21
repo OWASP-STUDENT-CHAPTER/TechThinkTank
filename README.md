@@ -44,7 +44,7 @@ Contributor needs to go to Advocacy dir and then to the section they want to con
 
 ### Maintainers
 - [Aman Kumar](https://github.com/amankumar11)
-
+- [Shivam Dargan](https://github.com/shivamdargan)
 
 <!-- Example -->
 
